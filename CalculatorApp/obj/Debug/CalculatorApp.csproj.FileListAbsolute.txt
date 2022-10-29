@@ -1,0 +1,11 @@
+C:\Users\Kim\CSharp_Code\CSharp_Lecture\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\Kim\CSharp_Code\CSharp_Lecture\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\Kim\CSharp_Code\CSharp_Lecture\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\Kim\CSharp_Code\CSharp_Lecture\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+C:\Users\Kim\CSharp_Code\CSharp_Lecture\CalculatorApp\obj\Debug\CalculatorApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kim\CSharp_Code\CSharp_Lecture\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+C:\Users\Kim\CSharp_Code\CSharp_Lecture\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\Kim\CSharp_Code\CSharp_Lecture\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\Kim\CSharp_Code\CSharp_Lecture\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Kim\CSharp_Code\CSharp_Lecture\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\Kim\CSharp_Code\CSharp_Lecture\CalculatorApp\obj\Debug\CalculatorApp.pdb

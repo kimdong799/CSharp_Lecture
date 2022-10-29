@@ -32,48 +32,16 @@ namespace HelloCSharpWin
         }
 
         // Snum Number Click Evernt Handler
-        private void sumNumbers_Click(object sender, EventArgs e)
+        public void sumNumbers_Click(object sender, EventArgs e)
         {
             // Init numbers
             int number1 = 0;
             int number2 = 0;
-
-            // C#에서의 조건문
-            // 사용자 VALUE INPUT 예외처리
-            if (String.IsNullOrWhiteSpace(sum1.Text))
-            {
-                MessageBox.Show("sum1에 숫자를 입력하세요");
-                sum1.Focus();
-                return;
-            }
-            // TryParse Function은 입력된 매개변수를 특정 데이터 타입으로 변환을 시도한다.
-            // Parsing 결과를 Bool 형으로 반환하며 예외처리가 가능하다.
-            if(int.TryParse(sum1.Text, out number1) == false){
-                MessageBox.Show("sum1에 문자열이 아닌 숫자를 입력해주세요");
-                sum1.Focus();
-                sum1.SelectAll();
-                return;
-            }
-            if (String.IsNullOrWhiteSpace(sum2.Text))
-            {
-                MessageBox.Show("sum2에 숫자를 입력하세요");
-                sum2.Focus();
-                return;
-            }
-            if(int.TryParse(sum2.Text, out number2) == false)
-            {
-                MessageBox.Show("sum2에 문자열이 아닌 숫자를 입력해주세요");
-                sum2.Focus();
-                sum2.SelectAll();
-                return;
-            }
-
-            int result = Add(number1, number2);
-            sumResult.Text = result.ToString();
         }
+            
 
         // Add 함수 선언
-        private int Add(int num1, int num2)
+        public int Add(int num1, int num2)
         {
             int result = num1 + num2;
             return result;

@@ -1,0 +1,15 @@
+C:\Users\Kim\CSharp_Code\CSharp_Lecture\CollectionType\bin\Debug\net6.0\CollectionType.exe
+C:\Users\Kim\CSharp_Code\CSharp_Lecture\CollectionType\bin\Debug\net6.0\CollectionType.deps.json
+C:\Users\Kim\CSharp_Code\CSharp_Lecture\CollectionType\bin\Debug\net6.0\CollectionType.runtimeconfig.json
+C:\Users\Kim\CSharp_Code\CSharp_Lecture\CollectionType\bin\Debug\net6.0\CollectionType.dll
+C:\Users\Kim\CSharp_Code\CSharp_Lecture\CollectionType\bin\Debug\net6.0\CollectionType.pdb
+C:\Users\Kim\CSharp_Code\CSharp_Lecture\CollectionType\obj\Debug\net6.0\CollectionType.csproj.AssemblyReference.cache
+C:\Users\Kim\CSharp_Code\CSharp_Lecture\CollectionType\obj\Debug\net6.0\CollectionType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kim\CSharp_Code\CSharp_Lecture\CollectionType\obj\Debug\net6.0\CollectionType.AssemblyInfoInputs.cache
+C:\Users\Kim\CSharp_Code\CSharp_Lecture\CollectionType\obj\Debug\net6.0\CollectionType.AssemblyInfo.cs
+C:\Users\Kim\CSharp_Code\CSharp_Lecture\CollectionType\obj\Debug\net6.0\CollectionType.csproj.CoreCompileInputs.cache
+C:\Users\Kim\CSharp_Code\CSharp_Lecture\CollectionType\obj\Debug\net6.0\CollectionType.dll
+C:\Users\Kim\CSharp_Code\CSharp_Lecture\CollectionType\obj\Debug\net6.0\refint\CollectionType.dll
+C:\Users\Kim\CSharp_Code\CSharp_Lecture\CollectionType\obj\Debug\net6.0\CollectionType.pdb
+C:\Users\Kim\CSharp_Code\CSharp_Lecture\CollectionType\obj\Debug\net6.0\CollectionType.genruntimeconfig.cache
+C:\Users\Kim\CSharp_Code\CSharp_Lecture\CollectionType\obj\Debug\net6.0\ref\CollectionType.dll
